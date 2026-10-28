@@ -3,7 +3,7 @@ PACMAN
 
 Lab 4: Interactive 3D Printed Devices
 
-DEMO video:
+DEMO video: https://youtube.com/shorts/QaWJU6Ro54Q
 
 What it is
 
